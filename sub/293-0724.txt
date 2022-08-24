@@ -1,0 +1,11 @@
+{
+	"libv": "http://81.71.48.249:4433/iphone/vof.php?url=",
+	"zxzj": "http://81.71.48.249:4433/iphone/zxzj.php?url=",
+	"4kjx": "http://81.71.48.249:4433/iphone/100.php?url=",
+	"jsjx": "http://81.71.48.249:4433/iphone/100.php?url=",
+	"rrjx": "http://81.71.48.249:4433/iphone/400.php?url=",
+	"rxjx": "http://81.71.48.249:4433/iphone/rongxing.php?url=",
+	"zbjx": "http://81.71.48.249:4433/iphone/huya.php?id=",
+	"gqjx": "http://81.71.48.249:4433/iphone/100.php?url=",
+                "host": "81.71.48.249:4433"
+}
